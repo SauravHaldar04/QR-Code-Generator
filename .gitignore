@@ -1,2 +1,4 @@
 node_modules
 QR Codes.pdf
+.firebasesrc
+firebase.json
